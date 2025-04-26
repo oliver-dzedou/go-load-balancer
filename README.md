@@ -1,3 +1,3 @@
 # go-load-balancer
 
-Minimal load balancer built with Go (for learning purposes)
+Minimal load balancer built in Go (for learning purposes)
